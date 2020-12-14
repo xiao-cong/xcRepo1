@@ -1,3 +1,5 @@
 public class helloWorld(){
-    public static void main()
+    public static void main(){
+		sjdjfjfjfjfk;
+	}
 }
